@@ -8,6 +8,15 @@
   height: 370px;
 }
 
+.my-big_banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://cdn.pixabay.com/photo/2020/08/08/20/19/wave-5473869_960_720.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+  height: 600px;
+}
 
 <!--   Footer   -->
 
